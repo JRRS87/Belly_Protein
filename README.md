@@ -4,12 +4,15 @@
 
 The purpose of this assignment is to create a dynamic dahsboard for bellybutton biodiversity information.
 
-# Results
+# Summary
 
-the following dynamic charts/tables were created for this dashboard:
+We had the help of some volunteers. We gathered data form certain bacteria form their body and gathered the data in a JSON file. We then created a dashbpoard where we can select a volunteer, we get a small box with their demographic data and 3 charts:
 
--. a bar chart to show the selected subject's top 10 OTUs found
--. a bubble chart that shows all bacteria found in the sample
--. a gauge that show the washing frequency of the subject
--. the metadata table show the demographic information of the sample
+A bar chart with the top 10 bacteria found in their belly buttom.
+A Bubble chart describing the vacteria species.
+A Gauge chart containing the frequency of the volunteers washing habits.
+
+
+
+
 
